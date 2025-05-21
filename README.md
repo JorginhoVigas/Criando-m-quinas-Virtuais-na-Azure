@@ -35,7 +35,7 @@ Durante este desafio, realizei os seguintes passos:
 
 ## 🙋‍♂️ Sobre mim
 
-Sou Jorge Vigas, Analista de Dados em constante evolução na área de tecnologia. Acredito no poder da prática e da documentação como ferramentas para o aprendizado contínuo. Este repositório representa mais um passo na minha jornada rumo ao domínio de cloud computing e infraestrutura.
+Sou Jorge Vigas, um jovem desenvolvedor em constante evolução na área de tecnologia. Acredito no poder da prática e da documentação como ferramentas para o aprendizado contínuo. Este repositório representa mais um passo na minha jornada rumo ao domínio de cloud computing e infraestrutura.
 
 ## 📌 Conclusão
 
